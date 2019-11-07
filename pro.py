@@ -9,6 +9,7 @@ from geopy.geocoders import Nominatim
 #import tensorflow as tf
 #from mx import bpnn
 
+geoneed=True #False
 
 def rdic():
     f=open("dic","r")
@@ -42,23 +43,23 @@ loc=rdic()
 
 #bpnn(sizes=[4,3,1])
 #bpnn.SGD(bpnn,X_train,20,5,0.0001)
-"""
-lc=list()
-gps = Nominatim()
-for address in place:
+if geoneed:
+    lc=list()
+    gps = Nominatim()
+    for address in place:
 
-    asdf=loc.get(address[0])
-    if asdf is None:
-        location = gps.geocode(address)
-        if location is not None:
-            print(address,location.latitude,location.longitude)
-            loc[address[0]]=[location.latitude,location.longitude]
-            sdic(loc)
-            lc.append()
-    else:
-        print(address,asdf[0],asdf[1])
-        lc.append([asdf[0],asdf[1]])
-"""
+        asdf=loc.get(address[0])
+        if asdf is None:
+            location = gps.geocode(address)
+            if location is not None:
+                print(address,location.latitude,location.longitude)
+                loc[address[0]]=[location.latitude,location.longitude]
+                sdic(loc)
+                lc.append()
+        else:
+            print(address,asdf[0],asdf[1])
+            lc.append([asdf[0],asdf[1]])
+
 
 for i in tset:
     num=loc.get(i[-2])
