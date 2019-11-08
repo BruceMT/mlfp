@@ -4,19 +4,20 @@ import pandas as pd
 from sklearn import preprocessing
 from sklearn.model_selection import train_test_split
 import json
+import matplotlib.pyplot as plt
 
 from geopy.geocoders import Nominatim
 #import tensorflow as tf
 #from mx import bpnn
 
-geoneed=True #False
+geoneed=0
 
 def rdic():
     f=open("dic","r")
     jf=f.read()
     data=dict()
     data=eval(jf)
-    data['U.S. Total, U.S. Total']=[0.0,0.0]
+    data['U.S. Total, U.S. Total']=[36.4280088,-92.0269643]
     #print(data)
     f.close()
     return data
@@ -40,11 +41,11 @@ place=f[["Place"]].values
 
 loc=rdic()
 #loc=dict();
-
+lx=list()
+ly=list()
 #bpnn(sizes=[4,3,1])
 #bpnn.SGD(bpnn,X_train,20,5,0.0001)
-if geoneed:
-    lc=list()
+if geoneed is not 0:
     gps = Nominatim()
     for address in place:
 
@@ -55,16 +56,17 @@ if geoneed:
                 print(address,location.latitude,location.longitude)
                 loc[address[0]]=[location.latitude,location.longitude]
                 sdic(loc)
-                lc.append()
         else:
             print(address,asdf[0],asdf[1])
-            lc.append([asdf[0],asdf[1]])
 
 
 for i in tset:
     num=loc.get(i[-2])
     i[-2]=num[0]
     i[-1]=num[1]
+    lx.append(num[1])
+    ly.append(num[0])
+
 
 le = preprocessing.LabelEncoder()
 for i in range(4):
@@ -72,4 +74,9 @@ for i in range(4):
     
 
 X_train, X_test, y_train, y_test = train_test_split(tset, resualt, test_size=0.30)
+
+plt.figure("location")
+plt.plot(lx,ly,'ro');
+plt.show()
+
 
