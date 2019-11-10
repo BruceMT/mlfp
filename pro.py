@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import os
 
 from geopy.geocoders import Nominatim
-import tensorflow as tf
+#import tensorflow as tf
 from msnn import NN 
 
 geoneed=0
