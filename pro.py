@@ -5,10 +5,11 @@ from sklearn import preprocessing
 from sklearn.model_selection import train_test_split
 import json
 import matplotlib.pyplot as plt
+import os
 
 from geopy.geocoders import Nominatim
-#import tensorflow as tf
-#from mx import bpnn
+import tensorflow as tf
+from msnn import NN 
 
 geoneed=0
 
@@ -68,15 +69,39 @@ for i in tset:
     ly.append(num[0])
 
 
-le = preprocessing.LabelEncoder()
-for i in range(4):
-    tset[:,i] = le.fit_transform(tset[:,i])
-    
+num=[]
+for i in range(1,3):
+    le = preprocessing.LabelEncoder()
+    tset[:,i] = le.fit_transform(tset[:,i])-0.5
+    num.append(le)
+    le.inverse_transform
+
+tset[:,0]=tset[:,0]-2000
+
 
 X_train, X_test, y_train, y_test = train_test_split(tset, resualt, test_size=0.30)
 
 plt.figure("location")
 plt.plot(lx,ly,'ro');
-plt.show()
+#plt.show()
+
+nn=NN([5,64,1])
+nn.fit(tset,resualt*0.01)
+
+gg=nn.predict(X_train[0])
+
+num=list(loc.values())
+i=X_train[0,-2:]
+for j in range(len(num)):
+    temp=num[j]==i
+
+    if temp[0]:
+        break
+
+num=list(loc.keys())[j]
+temp=X_train[0,:-2]
+
+print("In ",temp," ",num," ",gg*100)
+print(y_train[0])
 
 
