@@ -70,11 +70,15 @@ for i in tset:
 
 
 num=[]
+
+le = preprocessing.LabelEncoder()
+
 for i in range(1,3):
-    le = preprocessing.LabelEncoder()
     tset[:,i] = le.fit_transform(tset[:,i])-0.5
     num.append(le)
     le.inverse_transform
+
+
 
 tset[:,0]=tset[:,0]-2000
 
