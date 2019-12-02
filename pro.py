@@ -9,7 +9,7 @@ import os
 
 from geopy.geocoders import Nominatim
 #import tensorflow as tf
-from msnn import NN 
+from msnn2 import NN 
 
 geoneed=0
 
@@ -89,7 +89,7 @@ plt.figure("location")
 plt.plot(lx,ly,'ro');
 #plt.show()
 
-nn=NN([5,64,1])
+nn=NN([5,7,1])
 nn.fit(tset,resualt*0.01)
 
 gg=nn.predict(X_train[0])
