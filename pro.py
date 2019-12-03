@@ -7,9 +7,9 @@ import json
 import matplotlib.pyplot as plt
 import os
 
-from geopy.geocoders import Nominatim
+#from geopy.geocoders import Nominatim
 #import tensorflow as tf
-from msnn2 import NN 
+#from msnn2 import NN
 
 geoneed=0
 
