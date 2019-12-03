@@ -1,0 +1,993 @@
+,0,1,2,3,4
+18.7,2010,Both,All,"Los Angeles, CA",18.7
+19.7,2010,Both,All,"San Antonio, TX",19.7
+25.4,2010,Both,All,"Phoenix, AZ",25.4
+31.4,2010,Both,All,"Miami (Miami-Dade County), FL",31.4
+35.0,2010,Both,All,"San Francisco, CA",35.0
+36.7,2010,Both,All,"San Diego County, CA",36.7
+37.2,2010,Both,All,"Seattle, WA",37.2
+38.4,2010,Both,All,"Washington, DC",38.4
+41.3,2010,Both,All,"Oakland (Alameda County), CA",41.3
+41.7,2010,Both,All,"Denver, CO",41.7
+42.1,2010,Both,All,"Houston, TX",42.1
+44.1,2010,Both,All,"Boston, MA",44.1
+46.6,2010,Both,All,"Las Vegas (Clark County), NV",46.6
+46.7,2010,Both,All,"Fort Worth (Tarrant County), TX",46.7
+47.6,2010,Both,All,"U.S. Total, U.S. Total",47.6
+48.6,2010,Both,All,"Chicago, Il",48.6
+52.1,2010,Both,All,"Minneapolis, MN",52.1
+54.9,2010,Both,All,"Philadelphia, PA",54.9
+58.0,2010,Both,All,"Kansas City, MO",58.0
+58.2,2010,Both,All,"Indianapolis (Marion County), IN",58.2
+64.0,2010,Both,All,"Columbus, OH",64.0
+0.0,2010,Both,American Indian/Alaska Native,"Phoenix, AZ",0.0
+33.1,2010,Both,American Indian/Alaska Native,"U.S. Total, U.S. Total",33.1
+316.9,2010,Both,American Indian/Alaska Native,"Minneapolis, MN",316.9
+,2010,Both,American Indian/Alaska Native,"Indianapolis (Marion County), IN",
+15.4,2010,Both,Asian/PI,"Phoenix, AZ",15.4
+17.1,2010,Both,Asian/PI,"Los Angeles, CA",17.1
+19.6,2010,Both,Asian/PI,"Seattle, WA",19.6
+24.8,2010,Both,Asian/PI,"U.S. Total, U.S. Total",24.8
+25.6,2010,Both,Asian/PI,"Denver, CO",25.6
+27.1,2010,Both,Asian/PI,"Philadelphia, PA",27.1
+27.4,2010,Both,Asian/PI,"Minneapolis, MN",27.4
+27.7,2010,Both,Asian/PI,"San Diego County, CA",27.7
+27.8,2010,Both,Asian/PI,"Las Vegas (Clark County), NV",27.8
+28.1,2010,Both,Asian/PI,"Chicago, Il",28.1
+33.2,2010,Both,Asian/PI,"San Francisco, CA",33.2
+37.6,2010,Both,Asian/PI,"Oakland (Alameda County), CA",37.6
+46.1,2010,Both,Asian/PI,"Boston, MA",46.1
+,2010,Both,Asian/PI,"Columbus, OH",
+,2010,Both,Asian/PI,"Indianapolis (Marion County), IN",
+,2010,Both,Asian/PI,"San Antonio, TX",
+20.5,2010,Both,Black,"Phoenix, AZ",20.5
+35.4,2010,Both,Black,"Miami (Miami-Dade County), FL",35.4
+39.2,2010,Both,Black,"San Antonio, TX",39.2
+41.9,2010,Both,Black,"Boston, MA",41.9
+45.2,2010,Both,Black,"Las Vegas (Clark County), NV",45.2
+46.7,2010,Both,Black,"San Diego County, CA",46.7
+47.5,2010,Both,Black,"Fort Worth (Tarrant County), TX",47.5
+48.9,2010,Both,Black,"Seattle, WA",48.9
+49.4,2010,Both,Black,"Washington, DC",49.4
+52.6,2010,Both,Black,"U.S. Total, U.S. Total",52.6
+54.5,2010,Both,Black,"Kansas City, MO",54.5
+55.7,2010,Both,Black,"Los Angeles, CA",55.7
+56.2,2010,Both,Black,"San Francisco, CA",56.2
+56.4,2010,Both,Black,"Houston, TX",56.4
+58.0,2010,Both,Black,"Minneapolis, MN",58.0
+58.7,2010,Both,Black,"Oakland (Alameda County), CA",58.7
+63.9,2010,Both,Black,"Philadelphia, PA",63.9
+64.1,2010,Both,Black,"Chicago, Il",64.1
+64.8,2010,Both,Black,"Columbus, OH",64.8
+65.6,2010,Both,Black,"Indianapolis (Marion County), IN",65.6
+71.1,2010,Both,Black,"Denver, CO",71.1
+12.5,2010,Both,Hispanic,"Los Angeles, CA",12.5
+14.7,2010,Both,Hispanic,"Philadelphia, PA",14.7
+15.6,2010,Both,Hispanic,"Las Vegas (Clark County), NV",15.6
+17.0,2010,Both,Hispanic,"Chicago, Il",17.0
+19.6,2010,Both,Hispanic,"Houston, TX",19.6
+19.7,2010,Both,Hispanic,"San Antonio, TX",19.7
+20.4,2010,Both,Hispanic,"U.S. Total, U.S. Total",20.4
+20.7,2010,Both,Hispanic,"San Francisco, CA",20.7
+21.2,2010,Both,Hispanic,"San Diego County, CA",21.2
+21.6,2010,Both,Hispanic,"Washington, DC",21.6
+23.6,2010,Both,Hispanic,"Fort Worth (Tarrant County), TX",23.6
+27.1,2010,Both,Hispanic,"Miami (Miami-Dade County), FL",27.1
+35.4,2010,Both,Hispanic,"Denver, CO",35.4
+49.8,2010,Both,Hispanic,"Minneapolis, MN",49.8
+,2010,Both,Hispanic,"Boston, MA",
+,2010,Both,Hispanic,"Indianapolis (Marion County), IN",
+,2010,Both,Hispanic,"Oakland (Alameda County), CA",
+,2010,Both,Hispanic,"Seattle, WA",
+0.0,2010,Both,Multiracial,"Minneapolis, MN",0.0
+0.0,2010,Both,Other,"Las Vegas (Clark County), NV",0.0
+0.3,2010,Both,Other,"Phoenix, AZ",0.3
+24.6,2010,Both,Other,"Houston, TX",24.6
+25.9,2010,Both,Other,"Denver, CO",25.9
+,2010,Both,Other,"Boston, MA",
+,2010,Both,Other,"Columbus, OH",
+,2010,Both,Other,"Oakland (Alameda County), CA",
+,2010,Both,Other,"San Antonio, TX",
+,2010,Both,Other,"San Diego County, CA",
+,2010,Both,Other,"Seattle, WA",
+13.8,2010,Both,White,"Los Angeles, CA",13.8
+23.7,2010,Both,White,"Washington, DC",23.7
+35.3,2010,Both,White,"Oakland (Alameda County), CA",35.3
+35.9,2010,Both,White,"San Francisco, CA",35.9
+39.3,2010,Both,White,"Seattle, WA",39.3
+39.8,2010,Both,White,"Denver, CO",39.8
+41.0,2010,Both,White,"San Diego County, CA",41.0
+43.9,2010,Both,White,"Miami (Miami-Dade County), FL",43.9
+46.8,2010,Both,White,"Phoenix, AZ",46.8
+46.8,2010,Both,White,"San Antonio, TX",46.8
+47.6,2010,Both,White,"Houston, TX",47.6
+49.1,2010,Both,White,"Boston, MA",49.1
+50.8,2010,Both,White,"U.S. Total, U.S. Total",50.8
+51.3,2010,Both,White,"Fort Worth (Tarrant County), TX",51.3
+51.4,2010,Both,White,"Chicago, Il",51.4
+51.5,2010,Both,White,"Minneapolis, MN",51.5
+54.3,2010,Both,White,"Philadelphia, PA",54.3
+54.9,2010,Both,White,"Las Vegas (Clark County), NV",54.9
+57.9,2010,Both,White,"Indianapolis (Marion County), IN",57.9
+62.0,2010,Both,White,"Kansas City, MO",62.0
+66.7,2010,Both,White,"Columbus, OH",66.7
+12.7,2010,Female,All,"San Antonio, TX",12.7
+15.2,2010,Female,All,"Los Angeles, CA",15.2
+19.9,2010,Female,All,"Miami (Miami-Dade County), FL",19.9
+26.7,2010,Female,All,"Phoenix, AZ",26.7
+27.3,2010,Female,All,"San Francisco, CA",27.3
+29.6,2010,Female,All,"Seattle, WA",29.6
+30.4,2010,Female,All,"Washington, DC",30.4
+30.7,2010,Female,All,"San Diego County, CA",30.7
+31.7,2010,Female,All,"Houston, TX",31.7
+31.8,2010,Female,All,"Boston, MA",31.8
+31.8,2010,Female,All,"Denver, CO",31.8
+38.1,2010,Female,All,"U.S. Total, U.S. Total",38.1
+39.1,2010,Female,All,"Fort Worth (Tarrant County), TX",39.1
+40.0,2010,Female,All,"Minneapolis, MN",40.0
+40.4,2010,Female,All,"Chicago, Il",40.4
+40.8,2010,Female,All,"Las Vegas (Clark County), NV",40.8
+46.3,2010,Female,All,"Philadelphia, PA",46.3
+48.6,2010,Female,All,"Indianapolis (Marion County), IN",48.6
+52.0,2010,Female,All,"Kansas City, MO",52.0
+54.7,2010,Female,All,"Columbus, OH",54.7
+23.3,2010,Male,All,"Los Angeles, CA",23.3
+23.8,2010,Male,All,"Phoenix, AZ",23.8
+29.7,2010,Male,All,"San Antonio, TX",29.7
+44.4,2010,Male,All,"San Diego County, CA",44.4
+44.5,2010,Male,All,"San Francisco, CA",44.5
+46.6,2010,Male,All,"Miami (Miami-Dade County), FL",46.6
+46.9,2010,Male,All,"Oakland (Alameda County), CA",46.9
+47.9,2010,Male,All,"Seattle, WA",47.9
+50.2,2010,Male,All,"Washington, DC",50.2
+53.5,2010,Male,All,"Las Vegas (Clark County), NV",53.5
+55.5,2010,Male,All,"Denver, CO",55.5
+56.2,2010,Male,All,"Houston, TX",56.2
+57.5,2010,Male,All,"Fort Worth (Tarrant County), TX",57.5
+60.3,2010,Male,All,"U.S. Total, U.S. Total",60.3
+60.6,2010,Male,All,"Chicago, Il",60.6
+61.3,2010,Male,All,"Boston, MA",61.3
+65.7,2010,Male,All,"Philadelphia, PA",65.7
+67.7,2010,Male,All,"Minneapolis, MN",67.7
+71.3,2010,Male,All,"Indianapolis (Marion County), IN",71.3
+74.4,2010,Male,All,"Kansas City, MO",74.4
+76.0,2010,Male,All,"Columbus, OH",76.0
+16.6,2011,Both,All,"Los Angeles, CA",16.6
+25.0,2011,Both,All,"Phoenix, AZ",25.0
+29.4,2011,Both,All,"Miami (Miami-Dade County), FL",29.4
+31.6,2011,Both,All,"San Antonio, TX",31.6
+33.8,2011,Both,All,"San Jose, CA",33.8
+34.2,2011,Both,All,"New York City, NY",34.2
+34.5,2011,Both,All,"Denver, CO",34.5
+34.6,2011,Both,All,"Long Beach, CA",34.6
+35.1,2011,Both,All,"Seattle, WA",35.1
+36.2,2011,Both,All,"Minneapolis, MN",36.2
+36.3,2011,Both,All,"Oakland (Alameda County), CA",36.3
+36.3,2011,Both,All,"San Diego County, CA",36.3
+39.0,2011,Both,All,"Houston, TX",39.0
+40.2,2011,Both,All,"Washington, DC",40.2
+42.1,2011,Both,All,"Boston, MA",42.1
+46.0,2011,Both,All,"U.S. Total, U.S. Total",46.0
+47.3,2011,Both,All,"Chicago, Il",47.3
+47.3,2011,Both,All,"Fort Worth (Tarrant County), TX",47.3
+49.9,2011,Both,All,"Portland (Multnomah County), OR",49.9
+51.8,2011,Both,All,"Las Vegas (Clark County), NV",51.8
+53.8,2011,Both,All,"Kansas City, MO",53.8
+56.5,2011,Both,All,"Detroit, MI",56.5
+58.3,2011,Both,All,"Philadelphia, PA",58.3
+60.3,2011,Both,All,"Indianapolis (Marion County), IN",60.3
+62.3,2011,Both,All,"Columbus, OH",62.3
+0.0,2011,Both,American Indian/Alaska Native,"Indianapolis (Marion County), IN",0.0
+26.8,2011,Both,American Indian/Alaska Native,"Denver, CO",26.8
+30.0,2011,Both,American Indian/Alaska Native,"U.S. Total, U.S. Total",30.0
+190.0,2011,Both,American Indian/Alaska Native,"Minneapolis, MN",190.0
+17.1,2011,Both,Asian/PI,"Phoenix, AZ",17.1
+19.0,2011,Both,Asian/PI,"Los Angeles, CA",19.0
+20.7,2011,Both,Asian/PI,"Chicago, Il",20.7
+23.0,2011,Both,Asian/PI,"Long Beach, CA",23.0
+24.3,2011,Both,Asian/PI,"Boston, MA",24.3
+24.3,2011,Both,Asian/PI,"New York City, NY",24.3
+24.6,2011,Both,Asian/PI,"U.S. Total, U.S. Total",24.6
+25.7,2011,Both,Asian/PI,"Minneapolis, MN",25.7
+28.4,2011,Both,Asian/PI,"San Diego County, CA",28.4
+28.8,2011,Both,Asian/PI,"San Jose, CA",28.8
+30.0,2011,Both,Asian/PI,"Las Vegas (Clark County), NV",30.0
+32.6,2011,Both,Asian/PI,"Oakland (Alameda County), CA",32.6
+34.7,2011,Both,Asian/PI,"Seattle, WA",34.7
+42.4,2011,Both,Asian/PI,"Philadelphia, PA",42.4
+49.2,2011,Both,Asian/PI,"Denver, CO",49.2
+,2011,Both,Asian/PI,"Columbus, OH",
+,2011,Both,Asian/PI,"Indianapolis (Marion County), IN",
+23.5,2011,Both,Black,"Minneapolis, MN",23.5
+24.0,2011,Both,Black,"Phoenix, AZ",24.0
+29.2,2011,Both,Black,"Miami (Miami-Dade County), FL",29.2
+38.1,2011,Both,Black,"New York City, NY",38.1
+44.7,2011,Both,Black,"San Diego County, CA",44.7
+46.8,2011,Both,Black,"Denver, CO",46.8
+47.9,2011,Both,Black,"San Antonio, TX",47.9
+48.7,2011,Both,Black,"Fort Worth (Tarrant County), TX",48.7
+48.9,2011,Both,Black,"Boston, MA",48.9
+49.8,2011,Both,Black,"Los Angeles, CA",49.8
+50.5,2011,Both,Black,"U.S. Total, U.S. Total",50.5
+51.8,2011,Both,Black,"Washington, DC",51.8
+54.3,2011,Both,Black,"Oakland (Alameda County), CA",54.3
+56.7,2011,Both,Black,"Las Vegas (Clark County), NV",56.7
+56.9,2011,Both,Black,"Detroit, MI",56.9
+57.5,2011,Both,Black,"Seattle, WA",57.5
+58.1,2011,Both,Black,"Houston, TX",58.1
+59.3,2011,Both,Black,"Kansas City, MO",59.3
+61.5,2011,Both,Black,"Long Beach, CA",61.5
+62.8,2011,Both,Black,"Chicago, Il",62.8
+63.5,2011,Both,Black,"Columbus, OH",63.5
+63.6,2011,Both,Black,"Portland (Multnomah County), OR",63.6
+64.1,2011,Both,Black,"Philadelphia, PA",64.1
+74.2,2011,Both,Black,"Indianapolis (Marion County), IN",74.2
+4.7,2011,Both,Hispanic,"Phoenix, AZ",4.7
+11.8,2011,Both,Hispanic,"Los Angeles, CA",11.8
+12.3,2011,Both,Hispanic,"Philadelphia, PA",12.3
+13.8,2011,Both,Hispanic,"Washington, DC",13.8
+14.3,2011,Both,Hispanic,"Minneapolis, MN",14.3
+17.2,2011,Both,Hispanic,"Long Beach, CA",17.2
+17.3,2011,Both,Hispanic,"Oakland (Alameda County), CA",17.3
+17.5,2011,Both,Hispanic,"San Jose, CA",17.5
+19.6,2011,Both,Hispanic,"Houston, TX",19.6
+19.7,2011,Both,Hispanic,"Chicago, Il",19.7
+19.8,2011,Both,Hispanic,"U.S. Total, U.S. Total",19.8
+19.9,2011,Both,Hispanic,"Boston, MA",19.9
+20.6,2011,Both,Hispanic,"New York City, NY",20.6
+21.4,2011,Both,Hispanic,"San Antonio, TX",21.4
+23.8,2011,Both,Hispanic,"San Diego County, CA",23.8
+24.2,2011,Both,Hispanic,"Fort Worth (Tarrant County), TX",24.2
+26.6,2011,Both,Hispanic,"Miami (Miami-Dade County), FL",26.6
+27.2,2011,Both,Hispanic,"Las Vegas (Clark County), NV",27.2
+30.0,2011,Both,Hispanic,"Denver, CO",30.0
+,2011,Both,Hispanic,"Columbus, OH",
+,2011,Both,Hispanic,"Indianapolis (Marion County), IN",
+5.6,2011,Both,Multiracial,"Phoenix, AZ",5.6
+6.2,2011,Both,Other,"San Antonio, TX",6.2
+21.4,2011,Both,Other,"Las Vegas (Clark County), NV",21.4
+25.7,2011,Both,Other,"Houston, TX",25.7
+36.0,2011,Both,Other,"Fort Worth (Tarrant County), TX",36.0
+,2011,Both,Other,"Boston, MA",
+,2011,Both,Other,"Columbus, OH",
+,2011,Both,Other,"San Diego County, CA",
+10.3,2011,Both,White,"Los Angeles, CA",10.3
+27.5,2011,Both,White,"Washington, DC",27.5
+28.3,2011,Both,White,"Oakland (Alameda County), CA",28.3
+33.5,2011,Both,White,"Seattle, WA",33.5
+34.6,2011,Both,White,"Denver, CO",34.6
+37.4,2011,Both,White,"Minneapolis, MN",37.4
+37.6,2011,Both,White,"Long Beach, CA",37.6
+38.0,2011,Both,White,"Miami (Miami-Dade County), FL",38.0
+40.0,2011,Both,White,"San Diego County, CA",40.0
+40.6,2011,Both,White,"Phoenix, AZ",40.6
+41.9,2011,Both,White,"Houston, TX",41.9
+42.0,2011,Both,White,"New York City, NY",42.0
+42.8,2011,Both,White,"San Jose, CA",42.8
+43.3,2011,Both,White,"San Antonio, TX",43.3
+47.8,2011,Both,White,"Boston, MA",47.8
+48.6,2011,Both,White,"Chicago, Il",48.6
+49.2,2011,Both,White,"U.S. Total, U.S. Total",49.2
+51.4,2011,Both,White,"Kansas City, MO",51.4
+51.4,2011,Both,White,"Portland (Multnomah County), OR",51.4
+51.5,2011,Both,White,"Fort Worth (Tarrant County), TX",51.5
+53.8,2011,Both,White,"Detroit, MI",53.8
+55.9,2011,Both,White,"Philadelphia, PA",55.9
+58.4,2011,Both,White,"Indianapolis (Marion County), IN",58.4
+59.1,2011,Both,White,"Las Vegas (Clark County), NV",59.1
+64.3,2011,Both,White,"Columbus, OH",64.3
+13.3,2011,Female,All,"Los Angeles, CA",13.3
+19.2,2011,Female,All,"Miami (Miami-Dade County), FL",19.2
+24.2,2011,Female,All,"Phoenix, AZ",24.2
+24.3,2011,Female,All,"San Antonio, TX",24.3
+26.3,2011,Female,All,"Long Beach, CA",26.3
+26.8,2011,Female,All,"San Jose, CA",26.8
+27.0,2011,Female,All,"New York City, NY",27.0
+27.4,2011,Female,All,"Minneapolis, MN",27.4
+28.6,2011,Female,All,"Seattle, WA",28.6
+28.9,2011,Female,All,"Denver, CO",28.9
+29.4,2011,Female,All,"Oakland (Alameda County), CA",29.4
+29.9,2011,Female,All,"San Diego County, CA",29.9
+30.1,2011,Female,All,"Boston, MA",30.1
+31.7,2011,Female,All,"Houston, TX",31.7
+34.3,2011,Female,All,"Washington, DC",34.3
+34.5,2011,Female,All,"Chicago, Il",34.5
+36.5,2011,Female,All,"Fort Worth (Tarrant County), TX",36.5
+37.1,2011,Female,All,"U.S. Total, U.S. Total",37.1
+44.7,2011,Female,All,"Las Vegas (Clark County), NV",44.7
+44.7,2011,Female,All,"Portland (Multnomah County), OR",44.7
+45.7,2011,Female,All,"Detroit, MI",45.7
+46.3,2011,Female,All,"Indianapolis (Marion County), IN",46.3
+49.6,2011,Female,All,"Columbus, OH",49.6
+49.7,2011,Female,All,"Philadelphia, PA",49.7
+51.4,2011,Female,All,"Kansas City, MO",51.4
+20.9,2011,Male,All,"Los Angeles, CA",20.9
+25.4,2011,Male,All,"Phoenix, AZ",25.4
+41.6,2011,Male,All,"Denver, CO",41.6
+43.0,2011,Male,All,"San Jose, CA",43.0
+43.2,2011,Male,All,"Miami (Miami-Dade County), FL",43.2
+43.5,2011,Male,All,"Seattle, WA",43.5
+44.3,2011,Male,All,"New York City, NY",44.3
+44.9,2011,Male,All,"San Diego County, CA",44.9
+45.4,2011,Male,All,"Long Beach, CA",45.4
+45.6,2011,Male,All,"Minneapolis, MN",45.6
+46.4,2011,Male,All,"Oakland (Alameda County), CA",46.4
+48.6,2011,Male,All,"Washington, DC",48.6
+48.7,2011,Male,All,"Houston, TX",48.7
+53.3,2011,Male,All,"San Antonio, TX",53.3
+55.7,2011,Male,All,"Portland (Multnomah County), OR",55.7
+57.7,2011,Male,All,"U.S. Total, U.S. Total",57.7
+58.1,2011,Male,All,"Boston, MA",58.1
+60.9,2011,Male,All,"Las Vegas (Clark County), NV",60.9
+62.6,2011,Male,All,"Fort Worth (Tarrant County), TX",62.6
+65.8,2011,Male,All,"Chicago, Il",65.8
+71.5,2011,Male,All,"Philadelphia, PA",71.5
+73.0,2011,Male,All,"Detroit, MI",73.0
+77.3,2011,Male,All,"Kansas City, MO",77.3
+80.2,2011,Male,All,"Indianapolis (Marion County), IN",80.2
+80.6,2011,Male,All,"Columbus, OH",80.6
+15.8,2012,Both,All,"Los Angeles, CA",15.8
+28.4,2012,Both,All,"Phoenix, AZ",28.4
+29.0,2012,Both,All,"San Antonio, TX",29.0
+29.3,2012,Both,All,"Miami (Miami-Dade County), FL",29.3
+31.8,2012,Both,All,"Long Beach, CA",31.8
+32.0,2012,Both,All,"San Jose, CA",32.0
+33.8,2012,Both,All,"New York City, NY",33.8
+34.0,2012,Both,All,"Seattle, WA",34.0
+34.9,2012,Both,All,"San Diego County, CA",34.9
+39.2,2012,Both,All,"Houston, TX",39.2
+39.5,2012,Both,All,"Denver, CO",39.5
+40.2,2012,Both,All,"Washington, DC",40.2
+40.7,2012,Both,All,"Portland (Multnomah County), OR",40.7
+44.5,2012,Both,All,"Minneapolis, MN",44.5
+44.9,2012,Both,All,"U.S. Total, U.S. Total",44.9
+45.3,2012,Both,All,"Boston, MA",45.3
+46.2,2012,Both,All,"Chicago, Il",46.2
+46.2,2012,Both,All,"Fort Worth (Tarrant County), TX",46.2
+51.0,2012,Both,All,"Las Vegas (Clark County), NV",51.0
+55.3,2012,Both,All,"Kansas City, MO",55.3
+57.0,2012,Both,All,"Philadelphia, PA",57.0
+61.2,2012,Both,All,"Detroit, MI",61.2
+62.2,2012,Both,All,"Columbus, OH",62.2
+62.5,2012,Both,All,"Indianapolis (Marion County), IN",62.5
+85.2,2012,Both,All,"Oakland (Alameda County), CA",85.2
+7.1,2012,Both,American Indian/Alaska Native,"Phoenix, AZ",7.1
+30.1,2012,Both,American Indian/Alaska Native,"U.S. Total, U.S. Total",30.1
+97.0,2012,Both,American Indian/Alaska Native,"Minneapolis, MN",97.0
+14.8,2012,Both,Asian/PI,"Los Angeles, CA",14.8
+15.8,2012,Both,Asian/PI,"Phoenix, AZ",15.8
+19.9,2012,Both,Asian/PI,"Chicago, Il",19.9
+23.3,2012,Both,Asian/PI,"Seattle, WA",23.3
+24.0,2012,Both,Asian/PI,"U.S. Total, U.S. Total",24.0
+25.7,2012,Both,Asian/PI,"Denver, CO",25.7
+26.2,2012,Both,Asian/PI,"Oakland (Alameda County), CA",26.2
+26.3,2012,Both,Asian/PI,"Philadelphia, PA",26.3
+26.5,2012,Both,Asian/PI,"San Diego County, CA",26.5
+26.7,2012,Both,Asian/PI,"Las Vegas (Clark County), NV",26.7
+27.4,2012,Both,Asian/PI,"New York City, NY",27.4
+27.4,2012,Both,Asian/PI,"San Jose, CA",27.4
+30.1,2012,Both,Asian/PI,"Long Beach, CA",30.1
+33.9,2012,Both,Asian/PI,"Minneapolis, MN",33.9
+42.3,2012,Both,Asian/PI,"Boston, MA",42.3
+48.0,2012,Both,Asian/PI,"Portland (Multnomah County), OR",48.0
+,2012,Both,Asian/PI,"Columbus, OH",
+,2012,Both,Asian/PI,"Indianapolis (Marion County), IN",
+,2012,Both,Asian/PI,"Indianapolis (Marion County), IN",
+29.3,2012,Both,Black,"Miami (Miami-Dade County), FL",29.3
+32.4,2012,Both,Black,"Phoenix, AZ",32.4
+33.1,2012,Both,Black,"Seattle, WA",33.1
+34.8,2012,Both,Black,"Long Beach, CA",34.8
+37.7,2012,Both,Black,"New York City, NY",37.7
+37.8,2012,Both,Black,"Boston, MA",37.8
+46.8,2012,Both,Black,"Los Angeles, CA",46.8
+47.7,2012,Both,Black,"San Diego County, CA",47.7
+48.1,2012,Both,Black,"San Antonio, TX",48.1
+49.6,2012,Both,Black,"U.S. Total, U.S. Total",49.6
+50.3,2012,Both,Black,"Denver, CO",50.3
+52.1,2012,Both,Black,"Houston, TX",52.1
+52.3,2012,Both,Black,"Washington, DC",52.3
+52.4,2012,Both,Black,"Minneapolis, MN",52.4
+53.8,2012,Both,Black,"Kansas City, MO",53.8
+55.4,2012,Both,Black,"Oakland (Alameda County), CA",55.4
+56.0,2012,Both,Black,"Fort Worth (Tarrant County), TX",56.0
+58.4,2012,Both,Black,"Columbus, OH",58.4
+61.4,2012,Both,Black,"Las Vegas (Clark County), NV",61.4
+62.1,2012,Both,Black,"Detroit, MI",62.1
+62.7,2012,Both,Black,"Chicago, Il",62.7
+62.8,2012,Both,Black,"Philadelphia, PA",62.8
+78.8,2012,Both,Black,"Indianapolis (Marion County), IN",78.8
+4.7,2012,Both,Hispanic,"Minneapolis, MN",4.7
+4.9,2012,Both,Hispanic,"Phoenix, AZ",4.9
+9.0,2012,Both,Hispanic,"Los Angeles, CA",9.0
+14.5,2012,Both,Hispanic,"Houston, TX",14.5
+17.0,2012,Both,Hispanic,"Long Beach, CA",17.0
+18.1,2012,Both,Hispanic,"San Jose, CA",18.1
+18.2,2012,Both,Hispanic,"San Antonio, TX",18.2
+18.5,2012,Both,Hispanic,"San Diego County, CA",18.5
+19.2,2012,Both,Hispanic,"U.S. Total, U.S. Total",19.2
+19.4,2012,Both,Hispanic,"Fort Worth (Tarrant County), TX",19.4
+20.0,2012,Both,Hispanic,"New York City, NY",20.0
+21.3,2012,Both,Hispanic,"Chicago, Il",21.3
+21.8,2012,Both,Hispanic,"Washington, DC",21.8
+22.2,2012,Both,Hispanic,"Boston, MA",22.2
+27.2,2012,Both,Hispanic,"Philadelphia, PA",27.2
+27.3,2012,Both,Hispanic,"Miami (Miami-Dade County), FL",27.3
+28.1,2012,Both,Hispanic,"Las Vegas (Clark County), NV",28.1
+32.9,2012,Both,Hispanic,"Denver, CO",32.9
+,2012,Both,Hispanic,"Columbus, OH",
+,2012,Both,Hispanic,"Indianapolis (Marion County), IN",
+,2012,Both,Hispanic,"Indianapolis (Marion County), IN",
+,2012,Both,Hispanic,"Oakland (Alameda County), CA",
+7.8,2012,Both,Multiracial,"Phoenix, AZ",7.8
+0.6,2012,Both,Other,"Phoenix, AZ",0.6
+4.0,2012,Both,Other,"Las Vegas (Clark County), NV",4.0
+20.4,2012,Both,Other,"Houston, TX",20.4
+30.7,2012,Both,Other,"San Antonio, TX",30.7
+,2012,Both,Other,"Boston, MA",
+,2012,Both,Other,"Columbus, OH",
+,2012,Both,Other,"Oakland (Alameda County), CA",
+,2012,Both,Other,"San Diego County, CA",
+12.7,2012,Both,White,"Los Angeles, CA",12.7
+21.6,2012,Both,White,"Washington, DC",21.6
+30.3,2012,Both,White,"Oakland (Alameda County), CA",30.3
+33.6,2012,Both,White,"Long Beach, CA",33.6
+33.6,2012,Both,White,"Phoenix, AZ",33.6
+36.6,2012,Both,White,"Miami (Miami-Dade County), FL",36.6
+37.1,2012,Both,White,"San Antonio, TX",37.1
+38.3,2012,Both,White,"Seattle, WA",38.3
+39.4,2012,Both,White,"San Diego County, CA",39.4
+39.7,2012,Both,White,"Portland (Multnomah County), OR",39.7
+40.6,2012,Both,White,"San Jose, CA",40.6
+40.7,2012,Both,White,"New York City, NY",40.7
+41.4,2012,Both,White,"Denver, CO",41.4
+43.9,2012,Both,White,"Minneapolis, MN",43.9
+45.3,2012,Both,White,"Chicago, Il",45.3
+47.3,2012,Both,White,"Houston, TX",47.3
+48.0,2012,Both,White,"U.S. Total, U.S. Total",48.0
+50.3,2012,Both,White,"Fort Worth (Tarrant County), TX",50.3
+52.7,2012,Both,White,"Philadelphia, PA",52.7
+54.3,2012,Both,White,"Boston, MA",54.3
+56.0,2012,Both,White,"Kansas City, MO",56.0
+56.9,2012,Both,White,"Detroit, MI",56.9
+57.3,2012,Both,White,"Las Vegas (Clark County), NV",57.3
+60.6,2012,Both,White,"Indianapolis (Marion County), IN",60.6
+65.8,2012,Both,White,"Columbus, OH",65.8
+11.7,2012,Female,All,"Los Angeles, CA",11.7
+18.3,2012,Female,All,"Miami (Miami-Dade County), FL",18.3
+22.2,2012,Female,All,"San Antonio, TX",22.2
+24.2,2012,Female,All,"San Jose, CA",24.2
+24.8,2012,Female,All,"Long Beach, CA",24.8
+26.1,2012,Female,All,"New York City, NY",26.1
+29.4,2012,Female,All,"Phoenix, AZ",29.4
+30.9,2012,Female,All,"San Diego County, CA",30.9
+32.1,2012,Female,All,"Washington, DC",32.1
+32.2,2012,Female,All,"Houston, TX",32.2
+32.8,2012,Female,All,"Seattle, WA",32.8
+34.6,2012,Female,All,"Denver, CO",34.6
+36.4,2012,Female,All,"U.S. Total, U.S. Total",36.4
+37.4,2012,Female,All,"Chicago, Il",37.4
+37.4,2012,Female,All,"Fort Worth (Tarrant County), TX",37.4
+37.7,2012,Female,All,"Minneapolis, MN",37.7
+39.2,2012,Female,All,"Portland (Multnomah County), OR",39.2
+41.7,2012,Female,All,"Boston, MA",41.7
+45.7,2012,Female,All,"Las Vegas (Clark County), NV",45.7
+46.4,2012,Female,All,"Philadelphia, PA",46.4
+48.9,2012,Female,All,"Detroit, MI",48.9
+49.9,2012,Female,All,"Indianapolis (Marion County), IN",49.9
+50.5,2012,Female,All,"Columbus, OH",50.5
+50.7,2012,Female,All,"Kansas City, MO",50.7
+21.1,2012,Male,All,"Los Angeles, CA",21.1
+27.0,2012,Male,All,"Phoenix, AZ",27.0
+35.8,2012,Male,All,"Seattle, WA",35.8
+38.7,2012,Male,All,"San Antonio, TX",38.7
+40.1,2012,Male,All,"San Diego County, CA",40.1
+40.4,2012,Male,All,"Long Beach, CA",40.4
+42.6,2012,Male,All,"Portland (Multnomah County), OR",42.6
+43.3,2012,Male,All,"San Jose, CA",43.3
+44.0,2012,Male,All,"Miami (Miami-Dade County), FL",44.0
+44.6,2012,Male,All,"New York City, NY",44.6
+45.6,2012,Male,All,"Denver, CO",45.6
+48.6,2012,Male,All,"Houston, TX",48.6
+50.3,2012,Male,All,"Boston, MA",50.3
+51.9,2012,Male,All,"Oakland (Alameda County), CA",51.9
+51.9,2012,Male,All,"Washington, DC",51.9
+53.5,2012,Male,All,"Minneapolis, MN",53.5
+56.1,2012,Male,All,"U.S. Total, U.S. Total",56.1
+57.8,2012,Male,All,"Las Vegas (Clark County), NV",57.8
+59.1,2012,Male,All,"Fort Worth (Tarrant County), TX",59.1
+59.3,2012,Male,All,"Chicago, Il",59.3
+73.4,2012,Male,All,"Philadelphia, PA",73.4
+76.8,2012,Male,All,"Kansas City, MO",76.8
+79.2,2012,Male,All,"Detroit, MI",79.2
+79.4,2012,Male,All,"Columbus, OH",79.4
+80.5,2012,Male,All,"Indianapolis (Marion County), IN",80.5
+26.9,2013,Both,All,"Phoenix, AZ",26.9
+28.1,2013,Both,All,"San Antonio, TX",28.1
+28.8,2013,Both,All,"Miami (Miami-Dade County), FL",28.8
+29.5,2013,Both,All,"Long Beach, CA",29.5
+30.9,2013,Both,All,"San Jose, CA",30.9
+31.3,2013,Both,All,"Seattle, WA",31.3
+33.2,2013,Both,All,"New York City, NY",33.2
+33.5,2013,Both,All,"San Francisco, CA",33.5
+34.4,2013,Both,All,"San Diego County, CA",34.4
+34.5,2013,Both,All,"Denver, CO",34.5
+37.9,2013,Both,All,"Oakland (Alameda County), CA",37.9
+39.3,2013,Both,All,"Fort Worth (Tarrant County), TX",39.3
+41.2,2013,Both,All,"Minneapolis, MN",41.2
+42.0,2013,Both,All,"Boston, MA",42.0
+42.4,2013,Both,All,"Portland (Multnomah County), OR",42.4
+43.4,2013,Both,All,"U.S. Total, U.S. Total",43.4
+44.9,2013,Both,All,"Chicago, Il",44.9
+49.9,2013,Both,All,"Las Vegas (Clark County), NV",49.9
+55.5,2013,Both,All,"Philadelphia, PA",55.5
+59.0,2013,Both,All,"Indianapolis (Marion County), IN",59.0
+59.9,2013,Both,All,"Kansas City, MO",59.9
+60.1,2013,Both,All,"Detroit, MI",60.1
+62.3,2013,Both,All,"Columbus, OH",62.3
+4.5,2013,Both,American Indian/Alaska Native,"Phoenix, AZ",4.5
+16.7,2013,Both,American Indian/Alaska Native,"Minneapolis, MN",16.7
+27.7,2013,Both,American Indian/Alaska Native,"U.S. Total, U.S. Total",27.7
+138.0,2013,Both,American Indian/Alaska Native,"Denver, CO",138.0
+11.3,2013,Both,Asian/PI,"Long Beach, CA",11.3
+15.2,2013,Both,Asian/PI,"Phoenix, AZ",15.2
+21.2,2013,Both,Asian/PI,"Denver, CO",21.2
+23.3,2013,Both,Asian/PI,"U.S. Total, U.S. Total",23.3
+25.1,2013,Both,Asian/PI,"New York City, NY",25.1
+25.3,2013,Both,Asian/PI,"Seattle, WA",25.3
+28.1,2013,Both,Asian/PI,"Philadelphia, PA",28.1
+28.4,2013,Both,Asian/PI,"San Jose, CA",28.4
+30.1,2013,Both,Asian/PI,"San Diego County, CA",30.1
+36.4,2013,Both,Asian/PI,"Oakland (Alameda County), CA",36.4
+36.5,2013,Both,Asian/PI,"San Francisco, CA",36.5
+36.8,2013,Both,Asian/PI,"Chicago, Il",36.8
+37.3,2013,Both,Asian/PI,"Las Vegas (Clark County), NV",37.3
+,2013,Both,Asian/PI,"Boston, MA",
+,2013,Both,Asian/PI,"Columbus, OH",
+,2013,Both,Asian/PI,"Fort Worth (Tarrant County), TX",
+,2013,Both,Asian/PI,"Fort Worth (Tarrant County), TX",
+,2013,Both,Asian/PI,"Indianapolis (Marion County), IN",
+,2013,Both,Asian/PI,"Indianapolis (Marion County), IN",
+27.2,2013,Both,Black,"Phoenix, AZ",27.2
+29.8,2013,Both,Black,"Miami (Miami-Dade County), FL",29.8
+33.7,2013,Both,Black,"Minneapolis, MN",33.7
+34.8,2013,Both,Black,"New York City, NY",34.8
+37.1,2013,Both,Black,"Long Beach, CA",37.1
+41.7,2013,Both,Black,"San Diego County, CA",41.7
+44.3,2013,Both,Black,"Denver, CO",44.3
+44.4,2013,Both,Black,"San Antonio, TX",44.4
+46.3,2013,Both,Black,"Fort Worth (Tarrant County), TX",46.3
+46.7,2013,Both,Black,"Boston, MA",46.7
+47.1,2013,Both,Black,"Seattle, WA",47.1
+48.2,2013,Both,Black,"U.S. Total, U.S. Total",48.2
+50.8,2013,Both,Black,"Las Vegas (Clark County), NV",50.8
+54.3,2013,Both,Black,"San Francisco, CA",54.3
+54.4,2013,Both,Black,"Oakland (Alameda County), CA",54.4
+55.9,2013,Both,Black,"Indianapolis (Marion County), IN",55.9
+56.8,2013,Both,Black,"Chicago, Il",56.8
+58.9,2013,Both,Black,"Philadelphia, PA",58.9
+60.9,2013,Both,Black,"Columbus, OH",60.9
+62.6,2013,Both,Black,"Detroit, MI",62.6
+63.8,2013,Both,Black,"Kansas City, MO",63.8
+1.4,2013,Both,Hispanic,"Minneapolis, MN",1.4
+5.5,2013,Both,Hispanic,"Phoenix, AZ",5.5
+12.3,2013,Both,Hispanic,"Fort Worth (Tarrant County), TX",12.3
+15.1,2013,Both,Hispanic,"San Jose, CA",15.1
+18.8,2013,Both,Hispanic,"Chicago, Il",18.8
+19.1,2013,Both,Hispanic,"San Diego County, CA",19.1
+19.6,2013,Both,Hispanic,"San Francisco, CA",19.6
+20.7,2013,Both,Hispanic,"Long Beach, CA",20.7
+20.7,2013,Both,Hispanic,"New York City, NY",20.7
+21.3,2013,Both,Hispanic,"San Antonio, TX",21.3
+24.1,2013,Both,Hispanic,"Las Vegas (Clark County), NV",24.1
+25.5,2013,Both,Hispanic,"Miami (Miami-Dade County), FL",25.5
+30.4,2013,Both,Hispanic,"Denver, CO",30.4
+31.6,2013,Both,Hispanic,"Philadelphia, PA",31.6
+45.6,2013,Both,Hispanic,"U.S. Total, U.S. Total",45.6
+,2013,Both,Hispanic,"Boston, MA",
+,2013,Both,Hispanic,"Columbus, OH",
+,2013,Both,Hispanic,"Indianapolis (Marion County), IN",
+,2013,Both,Hispanic,"Indianapolis (Marion County), IN",
+,2013,Both,Hispanic,"Oakland (Alameda County), CA",
+12.4,2013,Both,Multiracial,"Phoenix, AZ",12.4
+7.6,2013,Both,Other,"Las Vegas (Clark County), NV",7.6
+19.4,2013,Both,Other,"San Antonio, TX",19.4
+,2013,Both,Other,"Boston, MA",
+,2013,Both,Other,"Columbus, OH",
+,2013,Both,Other,"Fort Worth (Tarrant County), TX",
+,2013,Both,Other,"Fort Worth (Tarrant County), TX",
+,2013,Both,Other,"Oakland (Alameda County), CA",
+,2013,Both,Other,"San Diego County, CA",
+28.8,2013,Both,White,"Oakland (Alameda County), CA",28.8
+29.2,2013,Both,White,"San Francisco, CA",29.2
+31.8,2013,Both,White,"Seattle, WA",31.8
+34.9,2013,Both,White,"Long Beach, CA",34.9
+35.2,2013,Both,White,"Denver, CO",35.2
+35.8,2013,Both,White,"San Antonio, TX",35.8
+39.1,2013,Both,White,"San Diego County, CA",39.1
+39.2,2013,Both,White,"San Jose, CA",39.2
+39.8,2013,Both,White,"Miami (Miami-Dade County), FL",39.8
+40.7,2013,Both,White,"New York City, NY",40.7
+42.4,2013,Both,White,"Phoenix, AZ",42.4
+43.3,2013,Both,White,"Detroit, MI",43.3
+43.4,2013,Both,White,"Portland (Multnomah County), OR",43.4
+43.7,2013,Both,White,"Fort Worth (Tarrant County), TX",43.7
+46.2,2013,Both,White,"Minneapolis, MN",46.2
+46.6,2013,Both,White,"U.S. Total, U.S. Total",46.6
+47.2,2013,Both,White,"Chicago, Il",47.2
+51.3,2013,Both,White,"Boston, MA",51.3
+52.9,2013,Both,White,"Philadelphia, PA",52.9
+56.4,2013,Both,White,"Las Vegas (Clark County), NV",56.4
+58.9,2013,Both,White,"Kansas City, MO",58.9
+62.9,2013,Both,White,"Indianapolis (Marion County), IN",62.9
+64.7,2013,Both,White,"Columbus, OH",64.7
+18.2,2013,Female,All,"Miami (Miami-Dade County), FL",18.2
+23.1,2013,Female,All,"San Antonio, TX",23.1
+23.9,2013,Female,All,"San Jose, CA",23.9
+25.3,2013,Female,All,"San Francisco, CA",25.3
+25.5,2013,Female,All,"Phoenix, AZ",25.5
+26.1,2013,Female,All,"Seattle, WA",26.1
+26.4,2013,Female,All,"New York City, NY",26.4
+26.7,2013,Female,All,"Long Beach, CA",26.7
+28.3,2013,Female,All,"San Diego County, CA",28.3
+31.0,2013,Female,All,"Minneapolis, MN",31.0
+31.9,2013,Female,All,"Fort Worth (Tarrant County), TX",31.9
+32.0,2013,Female,All,"Denver, CO",32.0
+32.7,2013,Female,All,"Boston, MA",32.7
+35.5,2013,Female,All,"U.S. Total, U.S. Total",35.5
+37.9,2013,Female,All,"Portland (Multnomah County), OR",37.9
+38.0,2013,Female,All,"Chicago, Il",38.0
+42.2,2013,Female,All,"Las Vegas (Clark County), NV",42.2
+44.9,2013,Female,All,"Detroit, MI",44.9
+45.2,2013,Female,All,"Philadelphia, PA",45.2
+48.1,2013,Female,All,"Indianapolis (Marion County), IN",48.1
+50.1,2013,Female,All,"Kansas City, MO",50.1
+52.8,2013,Female,All,"Columbus, OH",52.8
+27.9,2013,Male,All,"Phoenix, AZ",27.9
+32.8,2013,Male,All,"Long Beach, CA",32.8
+37.6,2013,Male,All,"San Antonio, TX",37.6
+37.7,2013,Male,All,"Denver, CO",37.7
+38.7,2013,Male,All,"Seattle, WA",38.7
+40.2,2013,Male,All,"San Jose, CA",40.2
+42.3,2013,Male,All,"San Diego County, CA",42.3
+43.1,2013,Male,All,"Miami (Miami-Dade County), FL",43.1
+43.1,2013,Male,All,"New York City, NY",43.1
+44.5,2013,Male,All,"San Francisco, CA",44.5
+47.1,2013,Male,All,"Oakland (Alameda County), CA",47.1
+49.3,2013,Male,All,"Portland (Multnomah County), OR",49.3
+49.9,2013,Male,All,"Fort Worth (Tarrant County), TX",49.9
+53.7,2013,Male,All,"U.S. Total, U.S. Total",53.7
+54.4,2013,Male,All,"Chicago, Il",54.4
+54.5,2013,Male,All,"Boston, MA",54.5
+55.9,2013,Male,All,"Minneapolis, MN",55.9
+59.2,2013,Male,All,"Las Vegas (Clark County), NV",59.2
+71.0,2013,Male,All,"Philadelphia, PA",71.0
+73.3,2013,Male,All,"Columbus, OH",73.3
+75.0,2013,Male,All,"Indianapolis (Marion County), IN",75.0
+75.8,2013,Male,All,"Kansas City, MO",75.8
+81.7,2013,Male,All,"Detroit, MI",81.7
+19.6,2014,Both,All,"San Antonio, TX",19.6
+27.9,2014,Both,All,"Seattle, WA",27.9
+28.4,2014,Both,All,"Miami (Miami-Dade County), FL",28.4
+29.9,2014,Both,All,"Long Beach, CA",29.9
+30.0,2014,Both,All,"San Diego County, CA",30.0
+34.5,2014,Both,All,"Denver, CO",34.5
+34.7,2014,Both,All,"Oakland (Alameda County), CA",34.7
+35.4,2014,Both,All,"Portland (Multnomah County), OR",35.4
+38.0,2014,Both,All,"Fort Worth (Tarrant County), TX",38.0
+41.5,2014,Both,All,"Boston, MA",41.5
+42.1,2014,Both,All,"U.S. Total, U.S. Total",42.1
+46.2,2014,Both,All,"Minneapolis, MN",46.2
+52.0,2014,Both,All,"Detroit, MI",52.0
+53.8,2014,Both,All,"Philadelphia, PA",53.8
+54.3,2014,Both,All,"Las Vegas (Clark County), NV",54.3
+56.9,2014,Both,All,"Indianapolis (Marion County), IN",56.9
+59.3,2014,Both,All,"Kansas City, MO",59.3
+60.8,2014,Both,All,"Columbus, OH",60.8
+0.0,2014,Both,American Indian/Alaska Native,"Indianapolis (Marion County), IN",0.0
+27.8,2014,Both,American Indian/Alaska Native,"U.S. Total, U.S. Total",27.8
+49.3,2014,Both,American Indian/Alaska Native,"Minneapolis, MN",49.3
+17.9,2014,Both,Asian/PI,"Long Beach, CA",17.9
+21.5,2014,Both,Asian/PI,"Denver, CO",21.5
+22.2,2014,Both,Asian/PI,"Minneapolis, MN",22.2
+22.7,2014,Both,Asian/PI,"U.S. Total, U.S. Total",22.7
+22.9,2014,Both,Asian/PI,"Seattle, WA",22.9
+24.9,2014,Both,Asian/PI,"San Diego County, CA",24.9
+25.5,2014,Both,Asian/PI,"New York City, NY",25.5
+26.0,2014,Both,Asian/PI,"Philadelphia, PA",26.0
+38.4,2014,Both,Asian/PI,"Oakland (Alameda County), CA",38.4
+40.8,2014,Both,Asian/PI,"Boston, MA",40.8
+43.6,2014,Both,Asian/PI,"Las Vegas (Clark County), NV",43.6
+,2014,Both,Asian/PI,"Columbus, OH",
+,2014,Both,Asian/PI,"Detroit, MI",
+,2014,Both,Asian/PI,"Fort Worth (Tarrant County), TX",
+,2014,Both,Asian/PI,"Fort Worth (Tarrant County), TX",
+,2014,Both,Asian/PI,"Indianapolis (Marion County), IN",
+,2014,Both,Asian/PI,"Indianapolis (Marion County), IN",
+,2014,Both,Asian/PI,"San Antonio, TX",
+24.7,2014,Both,Black,"Long Beach, CA",24.7
+30.0,2014,Both,Black,"Miami (Miami-Dade County), FL",30.0
+30.7,2014,Both,Black,"New York City, NY",30.7
+32.6,2014,Both,Black,"Seattle, WA",32.6
+34.2,2014,Both,Black,"Boston, MA",34.2
+36.5,2014,Both,Black,"San Antonio, TX",36.5
+42.7,2014,Both,Black,"Fort Worth (Tarrant County), TX",42.7
+43.1,2014,Both,Black,"Oakland (Alameda County), CA",43.1
+45.7,2014,Both,Black,"U.S. Total, U.S. Total",45.7
+46.5,2014,Both,Black,"San Diego County, CA",46.5
+53.2,2014,Both,Black,"Detroit, MI",53.2
+54.9,2014,Both,Black,"Las Vegas (Clark County), NV",54.9
+55.5,2014,Both,Black,"Philadelphia, PA",55.5
+57.2,2014,Both,Black,"Denver, CO",57.2
+63.5,2014,Both,Black,"Indianapolis (Marion County), IN",63.5
+65.1,2014,Both,Black,"Columbus, OH",65.1
+68.1,2014,Both,Black,"Kansas City, MO",68.1
+71.2,2014,Both,Black,"Minneapolis, MN",71.2
+0.0,2014,Both,Hispanic,"Minneapolis, MN",0.0
+15.4,2014,Both,Hispanic,"Fort Worth (Tarrant County), TX",15.4
+16.7,2014,Both,Hispanic,"San Diego County, CA",16.7
+18.1,2014,Both,Hispanic,"New York City, NY",18.1
+18.3,2014,Both,Hispanic,"U.S. Total, U.S. Total",18.3
+19.6,2014,Both,Hispanic,"San Antonio, TX",19.6
+20.4,2014,Both,Hispanic,"Las Vegas (Clark County), NV",20.4
+20.4,2014,Both,Hispanic,"Long Beach, CA",20.4
+23.5,2014,Both,Hispanic,"Denver, CO",23.5
+26.7,2014,Both,Hispanic,"Miami (Miami-Dade County), FL",26.7
+31.6,2014,Both,Hispanic,"Oakland (Alameda County), CA",31.6
+58.0,2014,Both,Hispanic,"Philadelphia, PA",58.0
+,2014,Both,Hispanic,"Boston, MA",
+,2014,Both,Hispanic,"Columbus, OH",
+,2014,Both,Hispanic,"Detroit, MI",
+,2014,Both,Hispanic,"Indianapolis (Marion County), IN",
+,2014,Both,Hispanic,"Indianapolis (Marion County), IN",
+,2014,Both,Hispanic,"Seattle, WA",
+0.0,2014,Both,Multiracial,"Minneapolis, MN",0.0
+0.0,2014,Both,Other,"Las Vegas (Clark County), NV",0.0
+11.2,2014,Both,Other,"Denver, CO",11.2
+,2014,Both,Other,"Boston, MA",
+,2014,Both,Other,"Columbus, OH",
+,2014,Both,Other,"Fort Worth (Tarrant County), TX",
+,2014,Both,Other,"Fort Worth (Tarrant County), TX",
+,2014,Both,Other,"San Antonio, TX",
+,2014,Both,Other,"San Diego County, CA",
+,2014,Both,Other,"Seattle, WA",
+25.8,2014,Both,White,"Oakland (Alameda County), CA",25.8
+28.6,2014,Both,White,"Seattle, WA",28.6
+33.3,2014,Both,White,"Miami (Miami-Dade County), FL",33.3
+33.6,2014,Both,White,"San Diego County, CA",33.6
+34.5,2014,Both,White,"Denver, CO",34.5
+35.4,2014,Both,White,"Long Beach, CA",35.4
+36.3,2014,Both,White,"Portland (Multnomah County), OR",36.3
+36.6,2014,Both,White,"New York City, NY",36.6
+42.0,2014,Both,White,"Detroit, MI",42.0
+42.3,2014,Both,White,"Fort Worth (Tarrant County), TX",42.3
+43.7,2014,Both,White,"San Antonio, TX",43.7
+44.8,2014,Both,White,"Minneapolis, MN",44.8
+45.4,2014,Both,White,"U.S. Total, U.S. Total",45.4
+52.1,2014,Both,White,"Boston, MA",52.1
+53.3,2014,Both,White,"Philadelphia, PA",53.3
+56.8,2014,Both,White,"Kansas City, MO",56.8
+58.3,2014,Both,White,"Indianapolis (Marion County), IN",58.3
+61.6,2014,Both,White,"Las Vegas (Clark County), NV",61.6
+62.4,2014,Both,White,"Columbus, OH",62.4
+13.7,2014,Female,All,"San Antonio, TX",13.7
+21.0,2014,Female,All,"Miami (Miami-Dade County), FL",21.0
+24.0,2014,Female,All,"New York City, NY",24.0
+26.0,2014,Female,All,"Oakland (Alameda County), CA",26.0
+26.8,2014,Female,All,"San Diego County, CA",26.8
+27.1,2014,Female,All,"Long Beach, CA",27.1
+27.1,2014,Female,All,"Seattle, WA",27.1
+30.2,2014,Female,All,"Fort Worth (Tarrant County), TX",30.2
+30.8,2014,Female,All,"Portland (Multnomah County), OR",30.8
+31.9,2014,Female,All,"Denver, CO",31.9
+32.2,2014,Female,All,"Minneapolis, MN",32.2
+32.8,2014,Female,All,"Boston, MA",32.8
+34.7,2014,Female,All,"U.S. Total, U.S. Total",34.7
+43.5,2014,Female,All,"Detroit, MI",43.5
+44.9,2014,Female,All,"Philadelphia, PA",44.9
+46.6,2014,Female,All,"Indianapolis (Marion County), IN",46.6
+48.1,2014,Female,All,"Las Vegas (Clark County), NV",48.1
+49.4,2014,Female,All,"Columbus, OH",49.4
+49.5,2014,Female,All,"Kansas City, MO",49.5
+27.6,2014,Male,All,"San Antonio, TX",27.6
+29.7,2014,Male,All,"Seattle, WA",29.7
+33.6,2014,Male,All,"Long Beach, CA",33.6
+34.3,2014,Male,All,"San Diego County, CA",34.3
+37.5,2014,Male,All,"New York City, NY",37.5
+38.4,2014,Male,All,"Miami (Miami-Dade County), FL",38.4
+39.5,2014,Male,All,"Denver, CO",39.5
+41.5,2014,Male,All,"Portland (Multnomah County), OR",41.5
+47.1,2014,Male,All,"Oakland (Alameda County), CA",47.1
+49.0,2014,Male,All,"Fort Worth (Tarrant County), TX",49.0
+51.7,2014,Male,All,"U.S. Total, U.S. Total",51.7
+53.3,2014,Male,All,"Boston, MA",53.3
+62.1,2014,Male,All,"Las Vegas (Clark County), NV",62.1
+62.9,2014,Male,All,"Minneapolis, MN",62.9
+65.5,2014,Male,All,"Detroit, MI",65.5
+67.7,2014,Male,All,"Philadelphia, PA",67.7
+71.6,2014,Male,All,"Indianapolis (Marion County), IN",71.6
+71.7,2014,Male,All,"Kansas City, MO",71.7
+75.6,2014,Male,All,"Columbus, OH",75.6
+17.8,2015,Both,All,"San Antonio, TX",17.8
+28.4,2015,Both,All,"Seattle, WA",28.4
+28.9,2015,Both,All,"San Diego County, CA",28.9
+29.8,2015,Both,All,"New York City, NY",29.8
+31.1,2015,Both,All,"Denver, CO",31.1
+37.2,2015,Both,All,"Fort Worth (Tarrant County), TX",37.2
+37.7,2015,Both,All,"Oakland (Alameda County), CA",37.7
+39.4,2015,Both,All,"Portland (Multnomah County), OR",39.4
+40.0,2015,Both,All,"Minneapolis, MN",40.0
+40.5,2015,Both,All,"U.S. Total, U.S. Total",40.5
+43.9,2015,Both,All,"Las Vegas (Clark County), NV",43.9
+48.8,2015,Both,All,"Indianapolis (Marion County), IN",48.8
+51.1,2015,Both,All,"Philadelphia, PA",51.1
+52.2,2015,Both,All,"Kansas City, MO",52.2
+64.0,2015,Both,All,"Columbus, OH",64.0
+47.7,2015,Both,American Indian/Alaska Native,"Minneapolis, MN",47.7
+,2015,Both,American Indian/Alaska Native,"Portland (Multnomah County), OR",
+0.0,2015,Both,Asian/PI,"Indianapolis (Marion County), IN",0.0
+17.7,2015,Both,Asian/PI,"Philadelphia, PA",17.7
+22.0,2015,Both,Asian/PI,"San Diego County, CA",22.0
+23.3,2015,Both,Asian/PI,"Seattle, WA",23.3
+23.8,2015,Both,Asian/PI,"New York City, NY",23.8
+27.0,2015,Both,Asian/PI,"Denver, CO",27.0
+28.9,2015,Both,Asian/PI,"Minneapolis, MN",28.9
+34.5,2015,Both,Asian/PI,"Fort Worth (Tarrant County), TX",34.5
+37.3,2015,Both,Asian/PI,"Oakland (Alameda County), CA",37.3
+39.5,2015,Both,Asian/PI,"Las Vegas (Clark County), NV",39.5
+,2015,Both,Asian/PI,"Columbus, OH",
+,2015,Both,Asian/PI,"Portland (Multnomah County), OR",
+,2015,Both,Asian/PI,"San Antonio, TX",
+31.8,2015,Both,Black,"New York City, NY",31.8
+35.1,2015,Both,Black,"San Antonio, TX",35.1
+36.0,2015,Both,Black,"San Diego County, CA",36.0
+38.0,2015,Both,Black,"Seattle, WA",38.0
+40.2,2015,Both,Black,"Las Vegas (Clark County), NV",40.2
+41.1,2015,Both,Black,"Fort Worth (Tarrant County), TX",41.1
+43.0,2015,Both,Black,"Denver, CO",43.0
+46.8,2015,Both,Black,"Indianapolis (Marion County), IN",46.8
+53.1,2015,Both,Black,"Philadelphia, PA",53.1
+58.8,2015,Both,Black,"Oakland (Alameda County), CA",58.8
+60.7,2015,Both,Black,"Columbus, OH",60.7
+63.4,2015,Both,Black,"Minneapolis, MN",63.4
+70.3,2015,Both,Black,"Kansas City, MO",70.3
+,2015,Both,Black,"Portland (Multnomah County), OR",
+10.0,2015,Both,Hispanic,"Fort Worth (Tarrant County), TX",10.0
+15.9,2015,Both,Hispanic,"Minneapolis, MN",15.9
+17.0,2015,Both,Hispanic,"San Diego County, CA",17.0
+18.2,2015,Both,Hispanic,"New York City, NY",18.2
+19.0,2015,Both,Hispanic,"San Antonio, TX",19.0
+21.7,2015,Both,Hispanic,"Seattle, WA",21.7
+23.9,2015,Both,Hispanic,"Denver, CO",23.9
+25.3,2015,Both,Hispanic,"Las Vegas (Clark County), NV",25.3
+29.0,2015,Both,Hispanic,"Philadelphia, PA",29.0
+,2015,Both,Hispanic,"Columbus, OH",
+,2015,Both,Hispanic,"Indianapolis (Marion County), IN",
+,2015,Both,Hispanic,"Oakland (Alameda County), CA",
+,2015,Both,Hispanic,"Portland (Multnomah County), OR",
+0.0,2015,Both,Other,"Denver, CO",0.0
+0.0,2015,Both,Other,"Las Vegas (Clark County), NV",0.0
+,2015,Both,Other,"Fort Worth (Tarrant County), TX",
+,2015,Both,Other,"Fort Worth (Tarrant County), TX",
+,2015,Both,Other,"Oakland (Alameda County), CA",
+,2015,Both,Other,"San Antonio, TX",
+,2015,Both,Other,"San Diego County, CA",
+,2015,Both,Other,"Seattle, WA",
+27.4,2015,Both,White,"Oakland (Alameda County), CA",27.4
+28.4,2015,Both,White,"Seattle, WA",28.4
+32.2,2015,Both,White,"Denver, CO",32.2
+32.8,2015,Both,White,"San Diego County, CA",32.8
+35.4,2015,Both,White,"San Antonio, TX",35.4
+36.5,2015,Both,White,"New York City, NY",36.5
+38.7,2015,Both,White,"Minneapolis, MN",38.7
+40.7,2015,Both,White,"Portland (Multnomah County), OR",40.7
+41.5,2015,Both,White,"Fort Worth (Tarrant County), TX",41.5
+41.9,2015,Both,White,"Las Vegas (Clark County), NV",41.9
+45.0,2015,Both,White,"Kansas City, MO",45.0
+49.2,2015,Both,White,"Philadelphia, PA",49.2
+52.5,2015,Both,White,"Indianapolis (Marion County), IN",52.5
+68.8,2015,Both,White,"Columbus, OH",68.8
+11.7,2015,Female,All,"San Antonio, TX",11.7
+23.9,2015,Female,All,"New York City, NY",23.9
+24.0,2015,Female,All,"Seattle, WA",24.0
+24.6,2015,Female,All,"Denver, CO",24.6
+25.3,2015,Female,All,"San Diego County, CA",25.3
+30.2,2015,Female,All,"Fort Worth (Tarrant County), TX",30.2
+33.5,2015,Female,All,"U.S. Total, U.S. Total",33.5
+33.7,2015,Female,All,"Minneapolis, MN",33.7
+37.6,2015,Female,All,"Portland (Multnomah County), OR",37.6
+41.0,2015,Female,All,"Las Vegas (Clark County), NV",41.0
+44.6,2015,Female,All,"Indianapolis (Marion County), IN",44.6
+45.8,2015,Female,All,"Philadelphia, PA",45.8
+48.8,2015,Female,All,"Kansas City, MO",48.8
+51.8,2015,Female,All,"Columbus, OH",51.8
+22.5,2015,Female,American Indian/Alaska Native,"U.S. Total, U.S. Total",22.5
+16.8,2015,Female,Asian/PI,"U.S. Total, U.S. Total",16.8
+30.7,2015,Female,Black,"U.S. Total, U.S. Total",30.7
+12.9,2015,Female,Hispanic,"U.S. Total, U.S. Total",12.9
+37.3,2015,Female,White,"U.S. Total, U.S. Total",37.3
+26.1,2015,Male,All,"San Antonio, TX",26.1
+33.5,2015,Male,All,"San Diego County, CA",33.5
+34.4,2015,Male,All,"Seattle, WA",34.4
+38.1,2015,Male,All,"New York City, NY",38.1
+39.8,2015,Male,All,"Denver, CO",39.8
+41.0,2015,Male,All,"Portland (Multnomah County), OR",41.0
+44.0,2015,Male,All,"Oakland (Alameda County), CA",44.0
+47.3,2015,Male,All,"Fort Worth (Tarrant County), TX",47.3
+47.9,2015,Male,All,"Las Vegas (Clark County), NV",47.9
+49.5,2015,Male,All,"U.S. Total, U.S. Total",49.5
+49.7,2015,Male,All,"Minneapolis, MN",49.7
+54.7,2015,Male,All,"Indianapolis (Marion County), IN",54.7
+58.6,2015,Male,All,"Philadelphia, PA",58.6
+64.0,2015,Male,All,"Kansas City, MO",64.0
+81.3,2015,Male,All,"Columbus, OH",81.3
+32.1,2015,Male,American Indian/Alaska Native,"U.S. Total, U.S. Total",32.1
+29.5,2015,Male,Asian/PI,"U.S. Total, U.S. Total",29.5
+58.6,2015,Male,Black,"U.S. Total, U.S. Total",58.6
+24.3,2015,Male,Hispanic,"U.S. Total, U.S. Total",24.3
+52.2,2015,Male,White,"U.S. Total, U.S. Total",52.2
+27.9,2016,Both,All,"San Diego County, CA",27.9
+33.8,2016,Both,All,"Denver, CO",33.8
+34.9,2016,Both,All,"Oakland (Alameda County), CA",34.9
+38.1,2016,Both,All,"Portland (Multnomah County), OR",38.1
+40.2,2016,Both,All,"Minneapolis, MN",40.2
+50.0,2016,Both,All,"Indianapolis (Marion County), IN",50.0
+50.9,2016,Both,All,"Philadelphia, PA",50.9
+51.7,2016,Both,All,"Kansas City, MO",51.7
+57.1,2016,Both,All,"Columbus, OH",57.1
+128.0,2016,Both,American Indian/Alaska Native,"Minneapolis, MN",128.0
+26.0,2016,Both,Asian/PI,"San Diego County, CA",26.0
+30.0,2016,Both,Asian/PI,"Oakland (Alameda County), CA",30.0
+30.6,2016,Both,Asian/PI,"Philadelphia, PA",30.6
+37.1,2016,Both,Asian/PI,"Minneapolis, MN",37.1
+38.8,2016,Both,Asian/PI,"Portland (Multnomah County), OR",38.8
+54.9,2016,Both,Asian/PI,"Denver, CO",54.9
+,2016,Both,Asian/PI,"Columbus, OH",
+,2016,Both,Asian/PI,"Indianapolis (Marion County), IN",
+30.1,2016,Both,Black,"San Diego County, CA",30.1
+39.7,2016,Both,Black,"Denver, CO",39.7
+48.4,2016,Both,Black,"Portland (Multnomah County), OR",48.4
+51.8,2016,Both,Black,"Indianapolis (Marion County), IN",51.8
+53.5,2016,Both,Black,"Oakland (Alameda County), CA",53.5
+53.7,2016,Both,Black,"Kansas City, MO",53.7
+54.7,2016,Both,Black,"Philadelphia, PA",54.7
+55.8,2016,Both,Black,"Columbus, OH",55.8
+56.1,2016,Both,Black,"Minneapolis, MN",56.1
+15.2,2016,Both,Hispanic,"San Diego County, CA",15.2
+19.9,2016,Both,Hispanic,"Philadelphia, PA",19.9
+31.7,2016,Both,Hispanic,"Denver, CO",31.7
+,2016,Both,Hispanic,"Columbus, OH",
+,2016,Both,Hispanic,"Indianapolis (Marion County), IN",
+,2016,Both,Hispanic,"Oakland (Alameda County), CA",
+,2016,Both,Hispanic,"Portland (Multnomah County), OR",
+20.0,2016,Both,Multiracial,"Minneapolis, MN",20.0
+0.0,2016,Both,Other,"Columbus, OH",0.0
+7.4,2016,Both,Other,"Denver, CO",7.4
+,2016,Both,Other,"Oakland (Alameda County), CA",
+,2016,Both,Other,"Portland (Multnomah County), OR",
+,2016,Both,Other,"San Diego County, CA",
+26.8,2016,Both,White,"Oakland (Alameda County), CA",26.8
+31.3,2016,Both,White,"San Diego County, CA",31.3
+33.5,2016,Both,White,"Denver, CO",33.5
+37.1,2016,Both,White,"Portland (Multnomah County), OR",37.1
+37.8,2016,Both,White,"Minneapolis, MN",37.8
+47.5,2016,Both,White,"Philadelphia, PA",47.5
+49.4,2016,Both,White,"Kansas City, MO",49.4
+52.0,2016,Both,White,"Indianapolis (Marion County), IN",52.0
+60.1,2016,Both,White,"Columbus, OH",60.1
+25.6,2016,Female,All,"San Diego County, CA",25.6
+32.0,2016,Female,All,"Denver, CO",32.0
+34.1,2016,Female,All,"Minneapolis, MN",34.1
+35.4,2016,Female,All,"Portland (Multnomah County), OR",35.4
+42.8,2016,Female,All,"Philadelphia, PA",42.8
+43.7,2016,Female,All,"Columbus, OH",43.7
+44.6,2016,Female,All,"Indianapolis (Marion County), IN",44.6
+48.2,2016,Female,All,"Kansas City, MO",48.2
+31.0,2016,Male,All,"San Diego County, CA",31.0
+37.4,2016,Male,All,"Oakland (Alameda County), CA",37.4
+37.6,2016,Male,All,"Denver, CO",37.6
+42.1,2016,Male,All,"Portland (Multnomah County), OR",42.1
+48.4,2016,Male,All,"Minneapolis, MN",48.4
+57.4,2016,Male,All,"Indianapolis (Marion County), IN",57.4
+60.5,2016,Male,All,"Kansas City, MO",60.5
+63.2,2016,Male,All,"Philadelphia, PA",63.2
+77.1,2016,Male,All,"Columbus, OH",77.1

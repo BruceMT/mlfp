@@ -38,6 +38,10 @@ resualt=f["Value"].values
 place=f[["Place"]].values
 
 
+pdata1=pd.DataFrame(tset,resualt)
+
+pdata1.to_csv(path_or_buf="row.csv")
+
 
 
 loc=rdic()
