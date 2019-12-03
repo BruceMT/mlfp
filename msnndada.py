@@ -39,8 +39,8 @@ def relu_reverse(signal):
 
 class NN :
 
-    activation = []
-    activation_deriv[i] = []
+    activation = tanh
+    activation_deriv = tanh_deriv
     weight = []
     bp = []  # 存偏导数
     state = []
@@ -52,7 +52,15 @@ class NN :
 
 
     def __init__(self, layers, activation='sigmoid', inw=[-0.1,0.1]) :
-        
+        if activation == 'logistic' :
+            self.activation = logistics
+            self.activation_deriv = logistics_deriv
+        elif activation == 'tanh' :
+            self.activation = tanh
+            self.activation_deriv = tanh_deriv
+        elif activation == 'sigmoid' :
+            self.activation = sigmoid
+            self.activation_deriv = sigmoid_deriv
         self.weight = [] 
         self.state.append([1]*layers[0])
         for i in range(1, len(layers)) :
@@ -60,15 +68,6 @@ class NN :
             self.weight.append((2*np.random.random((layers[i], layers[i-1]+1))-1)*0.1)
             self.dw.append(np.zeros((layers[i], layers[i-1]+1)))
             self.bp.append([1]*(layers[i]))
-            if activation[i] == 'logistic' :
-                self.activation[i] = logistics
-                self.activation_deriv[i] = logistics_deriv
-            elif activation[i] == 'tanh' :
-                self.activation[i] = tanh
-                self.activation_deriv[i] = tanh_deriv
-            elif activation[i] == 'sigmoid' :
-                self.activation[i] = sigmoid
-                self.activation_deriv[i] = sigmoid_deriv
         self.weight=np.array(self.weight)
         self.bp=np.array(self.bp)
         self.dw=np.array(self.dw)
@@ -97,20 +96,20 @@ class NN :
             #fw
             for i in range(len(self.weight)) :
                 tsta[i]=np.insert(tsta[i], 0, values=np.ones(len(tsta[i])), axis=1)    
-                tsta[i+1]=self.activation[i]( tsta[i].dot(self.weight[i].T) )*cellrange
+                tsta[i+1]=self.activation( tsta[i].dot(self.weight[i].T) )*cellrange
                 
             tsta1=tsta.copy()
             #bp
             for i in range(len(self.weight)-1,-1,-1)  :
                 if i ==len(self.weight)-1 :
-                    tsta[-1]=self.activation_deriv[i](tsta[-1])*(res-tsta[-1])#tsta[-1]*(cellrange-tsta[-1])*(Y[ran[0] :ran[1]]-tsta[-1])
+                    tsta[-1]=self.activation_deriv(tsta[-1])*(res-tsta[-1])#tsta[-1]*(cellrange-tsta[-1])*(Y[ran[0] :ran[1]]-tsta[-1])
                     tp=tsta[-1][0]
                     for j in tsta[-1]  :
                         tp=tp+j
                     tsta[-1]=tp/len(tsta[-1])
                     self.dw[i]=momentum*self.dw[i]+eta*tsta1[-1].sum()*tsta[-1]
                 else :
-                    tsta[i+1]=self.activation_deriv[i](tsta[i+1])#tsta[i+1]*(cellrange-tsta[i+1])       #每个cell输出量
+                    tsta[i+1]=self.activation_deriv(tsta[i+1])#tsta[i+1]*(cellrange-tsta[i+1])       #每个cell输出量
                     
                     if i < len(self.weight)-2  :
                         tsta[i+2]=tsta[i+2][1 :]
@@ -143,7 +142,7 @@ class NN :
         #fw
         for i in range(len(self.weight)) :
             tsta[i]=np.insert(tsta[i], 0, values=np.ones(len(tsta[i])), axis=1)     #[1,index]
-            tsta[i+1]=self.activation[i]( tsta[i].dot(self.weight[i].T) )*self.outrange
+            tsta[i+1]=self.activation( tsta[i].dot(self.weight[i].T) )*self.outrange
         res=self.binary_class(tsta[-1])
         return res
     

@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-from mxnn import NN
+from msnn import NN
 import matplotlib.pyplot as plt
 
 def rdic():
@@ -26,7 +26,7 @@ resualt=np.reshape(resualt,(resualt.size,1))
 
 #线性回归
 
-lr=NN([[5],[1,'relu']])
+lr=NN([5,1],activation=['relu'])
 lr.fit(data,resualt,epochs=300)
 res1=lr.predict(data)
 
@@ -35,7 +35,7 @@ print (res1)
 
 #ann
 
-ann=NN([[5],[7,'sigmoid'],[3,'relu'],[1,'relu']])
+ann=NN([5,7,3,1],['sigmoid','relu','relu']])
 ann.fit(data,resualt,epochs=300)
 res2=lr.predict(data)
 
