@@ -132,7 +132,7 @@ class NN :
 
                     tp=np.array(tp)
                     self.dw[i]=momentum*self.dw[i]+eta*tp
-            self.weight=self.weight+learning_rate*self.dw
+            self.weight=self.weight-learning_rate*self.dw
                         
 
     def predict(self, X) :

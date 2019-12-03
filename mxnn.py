@@ -27,7 +27,7 @@ class NN(object):
         elif solver == "Adam":
             solver = kr.optimizers.Adam(
                 lr=learning_rate)
-        self.model.compile(optimizer=solver, loss='binary_crossentropy')  #'mean_squared_error'
+        self.model.compile(optimizer=solver, loss='mean_squared_error')  #'mean_squared_error'
         self.model.fit(X, Y, epochs=epochs)#,verbose=0)
 
     def predict(self, X):

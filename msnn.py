@@ -30,17 +30,17 @@ def sigmoid_deriv(x) :
     return sigmoid(x)*(1-sigmoid(x))
 
 def relu(signal):
-    return np.maximum(0, signal)
+    return np.maximum(0.1*signal, signal)
 
 
-def relu_reverse(signal):
-    return -np.minimum(0, signal)
+def relu_deriv(signal):
+    return -np.minimum(0.1*signal, signal)
 
 
 class NN :
 
     activation = []
-    activation_deriv[i] = []
+    activation_deriv = []
     weight = []
     bp = []  # 存偏导数
     state = []
@@ -60,21 +60,24 @@ class NN :
             self.weight.append((2*np.random.random((layers[i], layers[i-1]+1))-1)*0.1)
             self.dw.append(np.zeros((layers[i], layers[i-1]+1)))
             self.bp.append([1]*(layers[i]))
-            if activation[i] == 'logistic' :
-                self.activation[i] = logistics
-                self.activation_deriv[i] = logistics_deriv
-            elif activation[i] == 'tanh' :
-                self.activation[i] = tanh
-                self.activation_deriv[i] = tanh_deriv
-            elif activation[i] == 'sigmoid' :
-                self.activation[i] = sigmoid
-                self.activation_deriv[i] = sigmoid_deriv
+            if activation[i-1] == 'logistic' :
+                self.activation.append(logistics)
+                self.activation_deriv.append(logistics_deriv)
+            elif activation[i-1] == 'tanh' :
+                self.activation.append( tanh)
+                self.activation_deriv.append( tanh_deriv)
+            elif activation[i-1] == 'sigmoid' :
+                self.activation.append(sigmoid)
+                self.activation_deriv.append( sigmoid_deriv)
+            elif activation[i-1] == 'relu' :
+                self.activation.append(relu)
+                self.activation_deriv.append( relu_deriv)
         self.weight=np.array(self.weight)
         self.bp=np.array(self.bp)
         self.dw=np.array(self.dw)
         self.state=np.array(self.state)
 
-    def fit(self, X, Y, learning_rate=0.2, epochs=10000, solver="SGD",eta=0.3, momentum=1, batch_size=32,cellrange=1) : #self nerual network forward&&back
+    def fit(self, X, Y, learning_rate=0.5, epochs=10000, solver="SGD",eta=0.9, momentum=0.2, batch_size=32,cellrange=1) : #self nerual network forward&&back
         X = np.array(X)
         Y = np.array(Y)
         X=np.cast[float](X)
@@ -108,7 +111,7 @@ class NN :
                     for j in tsta[-1]  :
                         tp=tp+j
                     tsta[-1]=tp/len(tsta[-1])
-                    self.dw[i]=momentum*self.dw[i]+eta*tsta1[-1].sum()*tsta[-1]
+                    self.dw[i]=momentum*self.dw[i]+eta*tsta1[-1].sum()*tsta[-1]/len(tsta1[-1])
                 else :
                     tsta[i+1]=self.activation_deriv[i](tsta[i+1])#tsta[i+1]*(cellrange-tsta[i+1])       #每个cell输出量
                     
@@ -144,7 +147,7 @@ class NN :
         for i in range(len(self.weight)) :
             tsta[i]=np.insert(tsta[i], 0, values=np.ones(len(tsta[i])), axis=1)     #[1,index]
             tsta[i+1]=self.activation[i]( tsta[i].dot(self.weight[i].T) )*self.outrange
-        res=self.binary_class(tsta[-1])
+        res=tsta[-1]
         return res
     
     def binary_class(self,y) :
